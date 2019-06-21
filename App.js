@@ -122,4 +122,4 @@ const DrawerNavigatorExample = createDrawerNavigator({
 //For React Navigation 2.+ need to export App only
 //export default App;
 //For React Navigation 3.+
-export default createAppContainer(NavigationDrawerStructure);
+export default createAppContainer(DrawerNavigatorExample);
